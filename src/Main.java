@@ -23,43 +23,43 @@ Scanner userInput = new Scanner(System.in);
                 break;
 
                 case 2:
-                System.out.print("Zodyagınız: Köpek ");
+                System.out.print("Çin Zodyağı Burcunuz: Köpek ");
                 break;
 
                 case 3:
-                System.out.print("Zodyagınız: Domuz ");
+                System.out.print("Çin Zodyağı Burcunuz: Domuz ");
                 break;
 
                 case 4:
-                System.out.print("Zodyagınız: Fare ");
+                System.out.print("Çin Zodyağı Burcunuz: Fare ");
                 break;
 
                 case 5:
-                System.out.print("Zodyagınız: Öküz ");
+                System.out.print("Çin Zodyağı Burcunuz: Öküz ");
                 break;
 
                 case 6:
-                System.out.print("Zodyagınız: Kaplan ");
+                System.out.print("Çin Zodyağı Burcunuz: Kaplan ");
                 break;
 
                 case 7:
-                System.out.print("Zodyagınız: Tavşan ");
+                System.out.print("Çin Zodyağı Burcunuz: Tavşan ");
                 break;
 
                 case 8 :
-                System.out.print("Zodyagınız: Ejderha ");
+                System.out.print("Çin Zodyağı Burcunuz: Ejderha ");
                 break;
 
                 case 9:
-                System.out.print("Zodyagınız: Yılan ");
+                System.out.print("Çin Zodyağı Burcunuz: Yılan ");
                 break;
 
                 case 10:
-                System.out.print("Zodyagınız: At ");
+                System.out.print("Çin Zodyağı Burcunuz: At ");
                 break;
 
                 case 11:
-                System.out.print("Zodyagınız: Koyun ");
+                System.out.print("Çin Zodyağı Burcunuz: Koyun ");
                 break;
             }
         }
